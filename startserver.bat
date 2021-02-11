@@ -1,0 +1,1 @@
+node --max-old-space-size=2048 "C:\PeficientesAPP\SwiftExpressServer\SwiftExpressServer.js" #increase to 4gb 

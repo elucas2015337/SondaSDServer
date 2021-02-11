@@ -1,0 +1,25 @@
+<service>
+	<id>swiftexpressservice.exe</id>
+	<name>Swift Express Service</name>
+	<description>Swift Express Service</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js</argument>
+	<argument>--log</argument>
+	<argument>Swift Express Service wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<workingdirectory>D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server</workingdirectory>
+</service>

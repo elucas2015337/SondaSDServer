@@ -1,0 +1,4 @@
+E:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\bin\Microsoft.NodejsTools.WebRole.dll
+E:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\obj\Debug\SwiftExpressServer.njsprojResolveAssemblyReference.cache
+D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\obj\Debug\SwiftExpressServer.njsprojResolveAssemblyReference.cache
+D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\bin\Microsoft.NodejsTools.WebRole.dll

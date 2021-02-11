@@ -1,0 +1,49 @@
+SwiftExpress Server Ver. 2.1.9 
+running @ [169.254.80.80,192.168.1.102] on port[8596] dbserver[192.168.1.114]
+ info
+SwiftExpress Server Ver. 2.1.9 
+running @ [169.254.80.80] on port[8596] dbserver[192.168.1.114]
+ info
+SwiftExpress Server Ver. 2.1.9 
+running @ [169.254.80.80] on port[8596] dbserver[192.168.1.114]
+ info
+[2017-06-13T23:28:23.622Z] : GetBroadcastLost
+[2017-06-13T23:28:23.861Z] : SendResolution
+[2017-06-13T23:28:23.864Z] : SendResolution
+[2017-06-13T23:28:23.913Z] : ValidateInvoices_RequestInRoute success sin facturas
+[2017-06-13T23:38:32.324Z] : [dir dump]
+{ server: '192.168.1.114',
+  user: 'sa',
+  port: 1433,
+  password: 'Server1237710',
+  database: 'SWIFT_EXPRESS',
+  options: { encrypt: false } }
+---------- sql execute --------
+     proc: dbo.SWIFT_LOGIN
+    input: @USER, varchar, Alberto@ferco
+    input: @PASSWORD, varchar, 123
+---------- response -----------
+   return: -3
+ duration: 19ms
+---------- completed ----------
+[2017-06-13T23:38:37.173Z] : GetBroadcastLost
+[2017-06-13T23:38:37.489Z] : SendResolution
+[2017-06-13T23:38:37.493Z] : SendResolution
+[2017-06-13T23:38:37.497Z] : ValidateInvoices_RequestInRoute success sin facturas
+[2017-06-13T23:38:46.062Z] : GetBankAccounts
+[2017-06-13T23:38:46.115Z] : Server Error 
+[2017-06-13T23:38:46.146Z] : Server Error 
+[2017-06-13T23:39:17.203Z] : GetBroadcastLost
+[2017-06-13T23:39:17.267Z] : SendResolution
+[2017-06-13T23:39:17.267Z] : SendResolution
+[2017-06-13T23:39:17.520Z] : ValidateInvoices_RequestInRoute success sin facturas
+[2017-06-14T01:47:30.042Z] : Server Error 
+[2017-06-14T01:47:30.043Z] : Server Error 
+[2017-06-14T18:29:00.655Z] : GetBroadcastLost
+[2017-06-14T18:29:00.707Z] : SendResolution
+[2017-06-14T18:29:00.707Z] : SendResolution
+[2017-06-14T18:29:01.631Z] : ValidateInvoices_RequestInRoute success sin facturas
+[2017-06-14T18:30:51.369Z] : GetBroadcastLost
+[2017-06-14T18:30:51.400Z] : SendResolution
+[2017-06-14T18:30:51.400Z] : SendResolution
+[2017-06-14T18:30:51.511Z] : ValidateInvoices_RequestInRoute success sin facturas

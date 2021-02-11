@@ -1,0 +1,113 @@
+2017-05-12 17:13:30 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-05-12 17:13:30 - Started 21460
+2017-05-15 14:16:09 - Stopping swiftexpressservice.exe
+2017-05-15 14:16:09 - ProcessKill 21460
+2017-05-15 14:16:09 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-05-15 14:16:46 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-05-15 14:16:46 - Started 4188
+2017-05-16 09:42:52 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-05-16 09:42:52 - Started 4268
+2017-05-24 10:27:47 - Stopping swiftexpressservice.exe
+2017-05-24 10:27:47 - ProcessKill 4268
+2017-05-24 10:27:47 - Found child process: 4324 Name: conhost.exe
+2017-05-24 10:27:47 - Found child process: 4788 Name: node.exe
+2017-05-24 10:27:48 - Stopping process 4324
+2017-05-24 10:27:48 - Send SIGINT 4324
+2017-05-24 10:27:48 - SIGINT to 4324 failed - Killing as fallback
+2017-05-24 10:27:48 - Stopping process 4788
+2017-05-24 10:27:48 - Send SIGINT 4788
+2017-05-24 10:27:48 - SIGINT to 4788 failed - Killing as fallback
+2017-05-24 10:27:48 - Stopping process 4268
+2017-05-24 10:27:48 - Send SIGINT 4268
+2017-05-24 10:27:48 - SIGINT to 4268 failed - Killing as fallback
+2017-05-24 10:27:48 - Finished swiftexpressservice.exe
+2017-05-24 10:27:52 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-05-24 10:27:52 - Started 9996
+2017-05-24 10:28:46 - Stopping swiftexpressservice.exe
+2017-05-24 10:28:46 - ProcessKill 9996
+2017-05-24 10:28:46 - Found child process: 13644 Name: conhost.exe
+2017-05-24 10:28:46 - Found child process: 18792 Name: node.exe
+2017-05-24 10:28:46 - Stopping process 13644
+2017-05-24 10:28:46 - Send SIGINT 13644
+2017-05-24 10:28:46 - SIGINT to 13644 failed - Killing as fallback
+2017-05-24 10:28:46 - Stopping process 18792
+2017-05-24 10:28:46 - Send SIGINT 18792
+2017-05-24 10:28:46 - SIGINT to 18792 failed - Killing as fallback
+2017-05-24 10:28:46 - Stopping process 9996
+2017-05-24 10:28:46 - Send SIGINT 9996
+2017-05-24 10:28:46 - SIGINT to 9996 failed - Killing as fallback
+2017-05-24 10:28:46 - Finished swiftexpressservice.exe
+2017-05-26 15:46:27 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-05-26 15:46:27 - Started 4244
+2017-06-02 02:57:19 - Stopping swiftexpressservice.exe
+2017-06-02 02:57:19 - ProcessKill 4244
+2017-06-02 02:57:19 - Found child process: 4268 Name: conhost.exe
+2017-06-02 02:57:19 - Found child process: 5092 Name: node.exe
+2017-06-02 02:57:20 - Stopping process 4268
+2017-06-02 02:57:20 - Send SIGINT 4268
+2017-06-02 02:57:20 - SIGINT to 4268 failed - Killing as fallback
+2017-06-02 02:57:20 - Stopping process 5092
+2017-06-02 02:57:20 - Send SIGINT 5092
+2017-06-02 02:57:20 - SIGINT to 5092 failed - Killing as fallback
+2017-06-02 02:57:20 - Stopping process 4244
+2017-06-02 02:57:20 - Send SIGINT 4244
+2017-06-02 02:57:20 - SIGINT to 4244 failed - Killing as fallback
+2017-06-02 02:57:20 - Finished swiftexpressservice.exe
+2017-06-08 11:31:43 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-06-08 11:31:43 - Started 4336
+2017-06-09 15:09:05 - Stopping swiftexpressservice.exe
+2017-06-09 15:09:05 - ProcessKill 4336
+2017-06-09 15:09:05 - Found child process: 4352 Name: conhost.exe
+2017-06-09 15:09:05 - Found child process: 5164 Name: node.exe
+2017-06-09 15:09:05 - Stopping process 4352
+2017-06-09 15:09:05 - Send SIGINT 4352
+2017-06-09 15:09:05 - SIGINT to 4352 failed - Killing as fallback
+2017-06-09 15:09:05 - Stopping process 5164
+2017-06-09 15:09:05 - Send SIGINT 5164
+2017-06-09 15:09:05 - SIGINT to 5164 failed - Killing as fallback
+2017-06-09 15:09:05 - Stopping process 4336
+2017-06-09 15:09:05 - Send SIGINT 4336
+2017-06-09 15:09:05 - SIGINT to 4336 failed - Killing as fallback
+2017-06-09 15:09:05 - Finished swiftexpressservice.exe
+2017-06-13 17:26:46 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-06-13 17:26:46 - Started 16860
+2017-06-13 17:38:32 - Stopping swiftexpressservice.exe
+2017-06-13 17:38:32 - ProcessKill 16860
+2017-06-13 17:38:32 - Found child process: 9328 Name: conhost.exe
+2017-06-13 17:38:32 - Found child process: 14120 Name: node.exe
+2017-06-13 17:38:33 - Stopping process 9328
+2017-06-13 17:38:33 - Send SIGINT 9328
+2017-06-13 17:38:33 - SIGINT to 9328 failed - Killing as fallback
+2017-06-13 17:38:33 - Stopping process 14120
+2017-06-13 17:38:33 - Send SIGINT 14120
+2017-06-13 17:38:33 - SIGINT to 14120 failed - Killing as fallback
+2017-06-13 17:38:33 - Stopping process 16860
+2017-06-13 17:38:33 - Send SIGINT 16860
+2017-06-13 17:38:33 - SIGINT to 16860 failed - Killing as fallback
+2017-06-13 17:38:33 - Finished swiftexpressservice.exe
+2017-06-13 17:38:33 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\node_modules\node-windows\lib\wrapper.js --file D:\Proyectos\repositorio\mobilityscm\Android\SwiftExpressMobile\Server\SwiftExpressServer.js --log "Swift Express Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-06-13 17:38:33 - Started 19004
+2017-06-14 12:32:45 - Stopping swiftexpressservice.exe
+2017-06-14 12:32:45 - ProcessKill 19004
+2017-06-14 12:32:45 - Found child process: 13736 Name: conhost.exe
+2017-06-14 12:32:45 - Found child process: 12928 Name: node.exe
+2017-06-14 12:32:46 - Stopping process 13736
+2017-06-14 12:32:46 - Send SIGINT 13736
+2017-06-14 12:32:46 - SIGINT to 13736 failed - Killing as fallback
+2017-06-14 12:32:46 - Stopping process 12928
+2017-06-14 12:32:46 - Send SIGINT 12928
+2017-06-14 12:32:46 - SIGINT to 12928 failed - Killing as fallback
+2017-06-14 12:32:46 - Stopping process 19004
+2017-06-14 12:32:46 - Send SIGINT 19004
+2017-06-14 12:32:46 - SIGINT to 19004 failed - Killing as fallback
+2017-06-14 12:32:46 - Finished swiftexpressservice.exe
